@@ -1,9 +1,6 @@
 {
   "cache_time": 10800,
   "api_site": {
-
-    /* ========= TV 主力源（一级，优先搜索） ========= */
-
     "lziapi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "TV-量子资源",
@@ -60,9 +57,6 @@
       "is_adult": false,
       "enabled": true
     },
-
-    /* ========= TV 稳定补充（二级） ========= */
-
     "ikunzy": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "TV-ikun资源",
@@ -119,9 +113,6 @@
       "is_adult": false,
       "enabled": true
     },
-
-    /* ========= TV 兜底（三级，可关） ========= */
-
     "p2100": {
       "api": "https://p2100.net/api.php/provide/vod",
       "name": "TV-飘零资源",
@@ -136,9 +127,6 @@
       "is_adult": false,
       "enabled": false
     },
-
-    /* ========= AV 稳定源（严格控制数量） ========= */
-
     "bwzyz": {
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "name": "AV-百万资源",
@@ -167,6 +155,5 @@
       "is_adult": true,
       "enabled": true
     }
-
   }
 }
