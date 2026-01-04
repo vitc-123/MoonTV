@@ -1,159 +1,101 @@
 {
-  "cache_time": 10800,
+  "cache_time": 7200,
   "api_site": {
     "lziapi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "TV-量子资源",
       "detail": "",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "ffzyapi": {
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "name": "TV-非凡资源",
       "detail": "https://cj.ffzyapi.com",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "zuidapi": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "name": "TV-最大资源",
       "detail": "https://api.zuidapi.com",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "guangsuapi": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "name": "TV-光速资源",
       "detail": "https://api.guangsuapi.com",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "wujinapi_com": {
       "api": "https://api.wujinapi.com/api.php/provide/vod",
       "name": "TV-无尽资源",
       "detail": "",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "jyzyapi": {
       "api": "https://jyzyapi.com/api.php/provide/vod",
       "name": "TV-金鹰资源",
       "detail": "https://jyzyapi.com",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "jszyapi": {
       "api": "https://jszyapi.com/api.php/provide/vod",
       "name": "TV-极速资源",
       "detail": "https://jszyapi.com",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "dyttzyapi": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "TV-电影天堂",
+      "name": "TV-电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "ikunzy": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "TV-ikun资源",
       "detail": "https://ikunzyapi.com",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "hongniuzy2": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "name": "TV-红牛资源",
       "detail": "https://www.hongniuzy2.com",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "wolongzyw": {
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
       "name": "TV-卧龙资源",
       "detail": "https://collect.wolongzyw.com",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "maotaizy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "TV-茅台资源",
       "detail": "https://caiji.maotaizy.cc",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "ukuapi": {
       "api": "https://api.ukuapi.com/api.php/provide/vod",
       "name": "TV-U酷资源",
       "detail": "https://api.ukuapi.com",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "sdzyapi": {
       "api": "https://sdzyapi.com/api.php/provide/vod",
       "name": "TV-闪电资源",
       "detail": "https://sdzyapi.com",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "TV-黑木耳资源",
       "detail": "https://json.heimuer.xyz",
-      "is_adult": false,
-      "enabled": true
+      "is_adult": false
     },
     "apibdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "TV-百度云资源",
       "detail": "https://api.apibdzy.com",
-      "is_adult": false,
-      "enabled": true
-    },
-    "p2100": {
-      "api": "https://p2100.net/api.php/provide/vod",
-      "name": "TV-飘零资源",
-      "detail": "https://p2100.net",
-      "is_adult": false,
-      "enabled": false
-    },
-    "mozhuazy": {
-      "api": "https://mozhuazy.com/api.php/provide/vod",
-      "name": "TV-魔爪资源",
-      "detail": "https://mozhuazy.com",
-      "is_adult": false,
-      "enabled": false
-    },
-    "bwzyz": {
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "name": "AV-百万资源",
-      "detail": "https://api.bwzyz.com",
-      "is_adult": true,
-      "enabled": true
-    },
-    "jkunzyapi": {
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
-      "name": "AV-JKUN资源",
-      "detail": "https://jkunzyapi.com",
-      "is_adult": true,
-      "enabled": true
-    },
-    "souavzy": {
-      "api": "https://api.souavzy.vip/api.php/provide/vod",
-      "name": "AV-souav资源",
-      "detail": "https://api.souavzy.vip",
-      "is_adult": true,
-      "enabled": true
-    },
-    "aosikazy": {
-      "api": "https://aosikazy.com/api.php/provide/vod",
-      "name": "AV-奥斯卡资源",
-      "detail": "https://aosikazy.com",
-      "is_adult": true,
-      "enabled": true
+      "is_adult": false
     }
   }
 }
